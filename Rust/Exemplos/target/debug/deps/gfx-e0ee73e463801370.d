@@ -1,0 +1,17 @@
+/home/derra/snake/target/debug/deps/gfx-e0ee73e463801370.rmeta: /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/lib.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/encoder.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/factory.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/slice.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/mod.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/buffer.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/resource.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/target.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/bundle.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/shade.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/mod.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/pso.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/structure.rs
+
+/home/derra/snake/target/debug/deps/gfx-e0ee73e463801370.d: /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/lib.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/encoder.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/factory.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/slice.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/mod.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/buffer.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/resource.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/target.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/bundle.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/shade.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/mod.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/pso.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/structure.rs
+
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/lib.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/encoder.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/factory.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/slice.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/mod.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/buffer.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/resource.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/target.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/pso/bundle.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/shade.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/mod.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/pso.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx-0.18.2/src/macros/structure.rs:

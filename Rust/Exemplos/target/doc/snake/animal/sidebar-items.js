@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["fazer_barulho",""]],"struct":[["Cachorro",""],["Gato",""]],"trait":[["Animal",""]]};

@@ -1,0 +1,12 @@
+/home/derra/snake/target/debug/deps/getrandom-b164c89169977f52.rmeta: /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/derra/snake/target/debug/deps/libgetrandom-b164c89169977f52.rlib: /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/derra/snake/target/debug/deps/getrandom-b164c89169977f52.d: /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
+
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs:
+/home/derra/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs:
